@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-02T02:31:35.982Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="BovBeEmCEYASeAjlrsPQ" version="15.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-02T02:33:32.921Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="8FxHK3Mx3CC2vkKjg4wb" version="15.3.5" type="github">
   <diagram id="n7RNpQnU99ojLqM2rmTT" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -220,6 +220,12 @@
         </mxCell>
         <mxCell id="deRk8OlgFefZfmzjMl1k-87" value="Extensions" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;dashed=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="715" y="795" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="deRk8OlgFefZfmzjMl1k-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="deRk8OlgFefZfmzjMl1k-90" target="deRk8OlgFefZfmzjMl1k-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="deRk8OlgFefZfmzjMl1k-90" value="Seed URLs" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="370" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
